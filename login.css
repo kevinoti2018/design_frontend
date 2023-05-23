@@ -1,0 +1,40 @@
+html{
+    background-color: #f0f0f2;
+}
+.login-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+.form-section{
+    width: 40%;
+    background-color: #fefeff;
+}
+.login-form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.login-form .form-group{
+    width: 80%;
+}
+.login-form .form-group input{
+    width: 98%;
+    height: 30px;
+    margin: 10px 0;
+}
+.login-form .form-group input:focus{
+   outline: none;
+}
+button{
+    background-color: rgb(255,153,0);
+    color: white;
+    padding: 12px 15px;
+    border: none;
+    border-radius: 2px;
+    width: 100%;
+
+}
