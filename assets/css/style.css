@@ -3,10 +3,16 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+html {
+    background-color: #f0f0f2;
+  }
+.maincontainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 .container{
-    margin: 2rem 2rem;
-    background-color: #f1f1f2;
+    width: 80%;
     height: 100vh;
 }
 .nav{
@@ -74,6 +80,10 @@
     color: #313133;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
     border-radius: .4rem;
+}
+.left p a{
+    text-decoration: none;
+    color: black;
 }
 .right{
     background-color:#d4d4d6;
