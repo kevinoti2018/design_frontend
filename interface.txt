@@ -1,0 +1,27 @@
+user
+=== signup===
+username: string
+password:string
+confirm Password:string
+email:string
+
+===login===
+password:string
+email:string
+
+
+====reset====
+email:string
+
+====new password===
+newPassword:string
+email:string
+
+
+######Products######
+id:string
+name:string
+price:number
+description:string
+images:string
+

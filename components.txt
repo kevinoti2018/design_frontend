@@ -1,0 +1,14 @@
+nav===> be responsive and have all the necesary links/dropdowns
+hero====> slider  and  has category section
+product===> all products including the browse by categories
+product details ====> provide more details on the selected product
+login====>
+signup==>
+reset password==>
+new password===>
+
+Footer==> have all the necesary links including contact and additional information
+
+
+
+
